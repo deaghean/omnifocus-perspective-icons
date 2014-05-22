@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # OmniFocus 2 Professional Perspective Icons
 
 By Josh Hughes
