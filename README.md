@@ -1,7 +1,15 @@
-# OmniFocus 3 Perspective Icons
+![Screenshot](src/v3/header.png)
+
+# OmniFocus Perspective Icons
 
 By [Josh Hughes](http://josh-hughes.com)
 
-**Note: This requires the Professional version of OmniFocus 2 for Mac or the latest TestFlight version of the OmniFocus 3 for iOS Public Beta**
+**Note: Using these icons requires the Professional version of OmniFocus 3 for iOS or OmniFocus 2 for Mac**
 
-[A test page of these icons can be accessed here](http://omnifocusicons.josh-hughes.com/v3/). This is very much a work in progress. Requests or feedback can be directed to [josh@josh-hughes.com](mailto:josh@josh-hughes.com).
+I've developed a set of icons that is specifically designed to work well with The Omni Group's OmniFocus software. Feel free to use these icons for whatever you like. I recommend using the [website for this project](http://omnifocusicons.josh-hughes.com) to install the icons. It's easier than navigating the folder structure here.
+
+The OmniFocus 3 icons are all in the `v3` folder, while the OmniFocus 2 icons are in the `v2` folder. The `src` folder contains PSDs and vector artwork for all of the icons.
+
+**[Download the Icons](https://github.com/deaghean/omnifocus-perspective-icons/archive/master.zip)**
+
+Feedback and suggestions are welcome, and I'm happy to answer any questions. I can be reached at [josh@josh-hughes.com](mailto:josh@josh-hughes.com).
