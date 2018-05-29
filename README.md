@@ -1,4 +1,4 @@
-![Screenshot](src/v3/header.png)
+![Screenshot](src/v3/github-header.png)
 
 # OmniFocus Perspective Icons
 
