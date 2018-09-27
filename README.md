@@ -4,7 +4,7 @@
 
 By [Josh Hughes](http://josh-hughes.com)
 
-**Note: Using these icons requires the Professional version of OmniFocus 3 for iOS or OmniFocus 2 for Mac**
+**Note: Using these icons requires the Professional version of OmniFocus 3 for Mac or iOS or OmniFocus 2 for Mac**
 
 I've developed a set of icons that is specifically designed to work well with The Omni Group's OmniFocus software. Feel free to use these icons for whatever you like. I recommend using the [website for this project](https://omnifocusicons.josh-hughes.com) to install the icons. It's easier than navigating the folder structure here.
 
